@@ -1,0 +1,5 @@
+# Project exclude paths
+/.gradle/
+/Encryption-Decryption/task/build/
+/Topics/Processing strings/Number of occurrences/out/
+/Topics/Processing strings/Number of occurrences/out/production/classes/

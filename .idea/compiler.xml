@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Encryption-Decryption.Encryption-Decryption-task-build-classes-java.main" target="11" />
+      <module name="Encryption-Decryption.Encryption-Decryption-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Encryption-Decryption.Encryption-Decryption-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Encryption-Decryption.Encryption-Decryption-task-build-reports-tests.main" target="11" />
+      <module name="Encryption-Decryption.Encryption-Decryption-task-build-test-results.main" target="11" />
+      <module name="Encryption-Decryption.Encryption-Decryption-task-build-tmp.main" target="11" />
+      <module name="Encryption-Decryption.Encryption-Decryption-task.main" target="11" />
+      <module name="Encryption-Decryption.Topics-Encapsulating_object_creation-Clock_factory.main" target="11" />
+      <module name="Encryption-Decryption.Topics-Encapsulating_object_creation-Factories.main" target="11" />
+      <module name="Encryption-Decryption.Topics-Encapsulating_object_creation-Motor_static_factory.main" target="11" />
+      <module name="Encryption-Decryption.Topics-Encapsulating_object_creation-Select_statements.main" target="11" />
+      <module name="Encryption-Decryption.Topics-Encapsulating_object_creation-Shapes.main" target="11" />
+      <module name="Encryption-Decryption.Topics-Encapsulating_object_creation-Static_factory_methods_for_Time.main" target="11" />
+      <module name="Encryption-Decryption.Topics-Encapsulating_object_creation-Theory.main" target="11" />
+      <module name="Encryption-Decryption.Topics-Factory_method-Burger_store.main" target="11" />
+      <module name="Encryption-Decryption.Topics-Factory_method-Clocks.main" target="11" />
+      <module name="Encryption-Decryption.Topics-Factory_method-Motors.main" target="11" />
+      <module name="Encryption-Decryption.Topics-Factory_method-Robot.main" target="11" />
+      <module name="Encryption-Decryption.Topics-Factory_method-Robot_factory.main" target="11" />
+      <module name="Encryption-Decryption.Topics-Factory_method-The_purpose_of_the_pattern.main" target="11" />
+      <module name="Encryption-Decryption.Topics-Factory_method-Theory.main" target="11" />
+      <module name="Encryption-Decryption.Topics-Factory_method-Where_to_use_the_pattern.main" target="11" />
+      <module name="Encryption-Decryption.Topics-Processing_strings-Compression_algorithm.main" target="11" />
+      <module name="Encryption-Decryption.Topics-Processing_strings-Convert_a_date.main" target="11" />
+      <module name="Encryption-Decryption.Topics-Processing_strings-Generating_passwords.main" target="11" />
+      <module name="Encryption-Decryption.Topics-Processing_strings-Number_of_occurrences.main" target="11" />
+      <module name="Encryption-Decryption.Topics-Processing_strings-Palindrome.main" target="11" />
+      <module name="Encryption-Decryption.Topics-Processing_strings-Parse_url.main" target="11" />
+      <module name="Encryption-Decryption.Topics-Processing_strings-The_lucky_ticket.main" target="11" />
+      <module name="Encryption-Decryption.Topics-Processing_strings-The_percentage_of_G_and_C_characters.main" target="11" />
+      <module name="Encryption-Decryption.Topics-Processing_strings-Theory.main" target="11" />
+      <module name="Encryption-Decryption.Topics-Template_method-A_disadvantage.main" target="11" />
+      <module name="Encryption-Decryption.Topics-Template_method-Build_a_house.main" target="11" />
+      <module name="Encryption-Decryption.Topics-Template_method-Career.main" target="11" />
+      <module name="Encryption-Decryption.Topics-Template_method-Determine_the_output.main" target="11" />
+      <module name="Encryption-Decryption.Topics-Template_method-New_customer.main" target="11" />
+      <module name="Encryption-Decryption.Topics-Template_method-Social_networks.main" target="11" />
+      <module name="Encryption-Decryption.Topics-Template_method-Template_Method.main" target="11" />
+      <module name="Encryption-Decryption.Topics-Template_method-Template_Method__1_.main" target="11" />
+      <module name="Encryption-Decryption.Topics-Template_method-Theory.main" target="11" />
+      <module name="Encryption-Decryption.Topics-Template_method-What_does_it_do.main" target="11" />
+      <module name="Encryption-Decryption.Topics-The_main_method-Different_declarations.main" target="11" />
+      <module name="Encryption-Decryption.Topics-The_main_method-Fixing_the_main_method.main" target="11" />
+      <module name="Encryption-Decryption.Topics-The_main_method-No_main_args.main" target="11" />
+      <module name="Encryption-Decryption.Topics-The_main_method-Print__We_are_robots.main" target="11" />
+      <module name="Encryption-Decryption.Topics-The_main_method-Running_a_program_without_main.main" target="11" />
+      <module name="Encryption-Decryption.Topics-The_main_method-Select_all_correct_statements.main" target="11" />
+      <module name="Encryption-Decryption.Topics-The_main_method-Theory.main" target="11" />
+      <module name="Encryption-Decryption.Topics-The_main_method-Who_is_the_main.main" target="11" />
+      <module name="Encryption-Decryption.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
